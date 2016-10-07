@@ -1,3 +1,5 @@
+# My Transition from Student to Full Time Coder
+
 I started this blog for a few reasons. 
 
 Firstly, I needed somewhere to keep track of all the little projects and ideas that manifest themselves for brief moments before vanishing and never reappearing. 
