@@ -1,5 +1,7 @@
 # Alex Roan's Blog
 
+## This blog has now moved to Medium at [https://medium.com/@alexroan](https://medium.com/@alexroan)
+
 This is a compilation of blog posts which used to reside on a private server which ran [Ghost](https://ghost.org/). However I have freed that space up for other side projects, hence the move to Github. (Newest First:)
 
 ### [Making Old Private Projects Public](https://github.com/alexroan/blog/blob/master/2016-10-28.privaterepos.md) - 28th Oct '16
